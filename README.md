@@ -24,4 +24,3 @@ This online resume builder assists job searchers in building a professional resu
 
 <br>
 <hr>
--------------x
