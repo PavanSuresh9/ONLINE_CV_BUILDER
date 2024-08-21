@@ -25,21 +25,4 @@ This online resume builder assists job searchers in building a professional resu
 
 <br>
 <hr>
-
-
-<h3><b>WDW Termwork Project</b></h3>
-
-<hr> 
-
-## Watch Demo Video :-
-
-(Project Demo Link)
-"[Resume Builder](https://drive.google.com/file/d/1EuOOZCdjE9vxb4UhVG27ybTMskUWizxt/view?usp=sharing)"
-
-<br>
-
-![Home](WDW-ResumeBuilder.gif)
-
-<br>
-
 -------------x
